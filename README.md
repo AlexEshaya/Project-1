@@ -1,2 +1,2 @@
 # Project-1
-Practice making a FastAPI storefront using Pydantic. 
+Concepts for new infrastructure of cpl2.0
